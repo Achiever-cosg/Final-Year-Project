@@ -1,1 +1,1 @@
-# Application of Fog Computing in Samrt Healthcare Systems
+# Application of Fog Computing in Smart Healthcare Systems
